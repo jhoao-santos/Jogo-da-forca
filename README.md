@@ -82,8 +82,6 @@ Parabéns, você venceu! Ainda restavam 3 tentativas.
 
 
 
-🔗 Autor
-
-📌 João Santos
+🔗 Autor:  📌 João Santos
 
 
